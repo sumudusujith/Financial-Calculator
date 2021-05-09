@@ -21,8 +21,7 @@ public class Home extends Application {
              @Override
              public void handle(ActionEvent event) {
                  Cal1 Cal=new Cal1();
-                 Cal1 Cal=new Cal1();
-Cal1 Cal=new Cal1();
+                 Stage fdstage=new Stage();
                  try {
                      Cal.start(fdstage);
                  } catch (Exception e) {
