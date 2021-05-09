@@ -15,3 +15,22 @@ public class Home extends Application {
          btnfd.setPrefHeight(200);
          btnfd.setPrefWidth(200);
          btnfd.setStyle("-fx-background-color: #24478f;-fx-font: 18 verdana; -fx-text-fill:white;-fx-font-weight: bold;");
+
+
+         btnfd.setOnAction(new EventHandler<ActionEvent>() {
+             @Override
+             public void handle(ActionEvent event) {
+                 Cal1 Cal=new Cal1();
+                 Stage fdstage=new Stage();
+                 try {
+                     Cal.start(fdstage);
+                 } catch (Exception e) {
+                     e.printStackTrace();
+                 }
+                 fdstage.show();
+                 primaryStage.close();
+             }
+         });
+
+
+         Button btnsave = new Button();
