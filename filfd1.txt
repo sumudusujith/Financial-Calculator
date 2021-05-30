@@ -1,0 +1,95 @@
+Principle amount1000.0
+Intrest Rate2.0
+Period3.0
+Future Value1061.783514959642
+...............
+Principle amount1000.0
+Period5.0
+FutureValue1283.36
+Intrest Rate0.4166683900119095
+...............
+Principle amount70000.0
+Period2.0
+FutureValue100000.0
+Intrest Rate1.4972436530517275
+...............
+Principle amount1000.0
+Intrest Rate5.0
+Period5.0
+Future Value1283.3586785035118
+...............
+Principle amount1000.0
+Period5.0
+FutureValue1283.36
+Intrest Rate0.4166683900119095
+...............
+Principle amount1000.0
+Intrest Rate5.0
+Period5.0
+Future Value1283.3586785035118
+...............
+Principle amount1000.0
+Period5.0
+FutureValue1283.36
+Intrest Rate0.4166683900119095
+...............
+Principle amount1000.0
+Intrest Rate5.0
+Future Value1283.36
+Period5.00002063720826
+...............
+Principle amount1000.0
+Intrest Rate5.0
+Period5.0
+Future Value1283.3586785035118
+...............
+Principle amount1000.0
+Period5.0
+FutureValue1283.36
+Intrest Rate0.4166683900119095
+...............
+Principle amount1000.0
+Period5.0
+FutureValue1283.36
+Intrest Rate0.4166683900119095
+...............
+Principle amount1000.0
+Period5.0
+FutureValue1283.36
+Intrest Rate0.4166683900119095
+...............
+Principle amount1000.0
+Period5.0
+FutureValue1283.36
+Intrest Rate5.000020680142914
+...............
+Principle amount :2000.0
+Intrest Rate :2.0
+Future Value :10000.0
+Period :80.53893692247439
+...............
+Principle amount :1000.0
+Intrest Rate :5.0
+Future Value :1283.36
+Period :5.00002063720826
+...............
+FutureValue :10000.0
+Intrest Rate :2.0
+Period :3.0
+Principle amount :9418.11570730602
+...............
+Principle amount :9418.12
+Period :3.0
+FutureValue :10000.0
+Intrest Rate :2.0
+...............
+Principle amount :9418.12
+Intrest Rate :2.0
+Future Value :10000.0
+Period :2.999977191460651
+...............
+Principle amount :9418.12
+Intrest Rate :2.0
+Period :3.0
+Future Value :10000.004557911703
+...............

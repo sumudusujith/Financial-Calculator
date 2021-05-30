@@ -1,0 +1,40 @@
+Loan amount :1000.0
+Intrest Rate :3.0
+Period :24.0
+Monthly addition :4.875098045507429
+...............
+Loan amount :1000.0
+Intrest Rate :0.25
+Monthly addition :42.98
+Period :2.000058121499772
+...............
+Loan amount :1000.0
+Intrest Rate :3.0
+Period :24.0
+Monthly addition :4.88
+...............
+Loan amount :1000.0
+Intrest Rate :3.0
+Period :24.0
+Monthly addition :4.88
+...............
+Loan amount :10000.0
+Intrest Rate :4.0
+Period :7.0
+Monthly addition :136.69
+...............
+Loan amount :10000.0
+Intrest Rate :0.3333333333333333
+Monthly addition :136.69
+Period :6.999885574904934
+...............
+Loan amount :10000.0
+Intrest Rate :4.0
+Period :7.0
+Monthly addition :136.68806336489575
+...............
+Loan amount :10000.0
+Intrest Rate :0.3333333333333333
+Monthly addition :136.69
+Period :6.999885574904934
+...............

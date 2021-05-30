@@ -1,0 +1,32 @@
+Mortgage amount :133000.0
+Intrest Rate :30.0
+Monthly addition :3.0
+Period :NaN
+...............
+Mortgage amount :133000.0
+Intrest Rate :3.0
+Monthly addition :421.6
+Period :30.00046520326733
+...............
+Mortgage amount :133000.0
+Intrest Rate :3.0
+Period :30.0
+Monthly addition :421.6
+...............
+Mortgage amount :200000.0
+Intrest Rate :4.0
+Period :7.0
+Monthly addition :2460.3851405681235
+...............
+Mortgage amount :200000.0
+Down Payment :20000.0
+Intrest Rate :4.0
+Period :7.0
+Monthly addition :2460.3851405681235
+...............
+Mortgage amount :200000.0
+Down Payment :20000.0
+Intrest Rate :4.0
+Monthly addition :2460.39
+Period :6.999984048827028
+...............

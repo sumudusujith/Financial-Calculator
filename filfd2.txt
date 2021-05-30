@@ -1,0 +1,30 @@
+Principle amount :5000.0
+Intrest Rate :5.0
+Period :10.0
+Monthly addition :100.0
+Future Value :23763.27543301812
+...............
+Principle amount :5000.0
+Intrest Rate :5.0
+Period :5.0
+Monthly addition :100.0
+Future Value :13217.401676601841
+...............
+Principle amount :5000.0
+Intrest Rate :5.0
+Period :10.0
+Monthly addition :100.0
+Future Value :23763.27543301812
+...............
+Principle amount :5000.0
+Intrest Rate :5.0
+Period :10.0
+Monthly addition :100.0
+Future Value :23763.27543301812
+...............
+Principle amount :5000.0
+Intrest Rate :5.0
+Period :10.0
+Monthly addition :100.0
+Future Value :23763.27543301812
+...............
